@@ -5,13 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maqueus&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maqueus&layout=compact&langs_count=7&theme=nord"/>
 </div>
-  <img align="right" alt="Rafa-yoda" src="https://s5.gifyu.com/images/itachi-uchiha-1.gif">
  
  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Maqueus-HTML" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg>
   <img align="center" alt="Maqueus-CSS" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg>
+  <img align="right" alt="Rafa-yoda" src="https://s5.gifyu.com/images/itachi-uchiha-1.gif">
 
 </div>
   
