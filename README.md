@@ -11,10 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Maqueus-HTML" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg>
   <img align="center" alt="Maqueus-CSS" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg>
-<a href="https://imgbb.com/"><img align="right" src="https://s6.gifyu.com/images/ezgif.com-gif-maker5d9eac738f937cb2.gif" border="0"> </a>
-  
-  
-</div>
+<img align=right src="https://s6.gifyu.com/images/ezgif.com-gif-maker8ec3ccb111fc17ec.gif" alt="ezgif.com-gif-maker8ec3ccb111fc17ec.gif"/></a>
+  </div>
   
   ##
   
