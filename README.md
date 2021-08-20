@@ -11,7 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Maqueus-HTML" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg>
   <img align="center" alt="Maqueus-CSS" height="70" width="70" src=https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg>
-  <img align="right" border"10%" <img src="https://i.ibb.co/jZBzkSC/itachi-uchiha-sharingan-1.gif"></a>
 
 </div>
   
@@ -24,4 +23,8 @@
   <a href="https://www.linkedin.com/in/matheus-damasceno-61244321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Maqueus/Maqueus/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
+  ##
+  <img align="center" src=http://ForTheBadge.com/images/badges/built-with-love.svg></a>
  
